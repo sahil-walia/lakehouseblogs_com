@@ -7,6 +7,8 @@
   <meta name="description" content="Discover the latest insights, tutorials, and updates about Apache Iceberg, Delta Lake, Apache Hudi, Apache Paimon, and other open source data lakehouse technologies." />
   <link rel="canonical" href="https://lakehouseblogs.com/" />
 
+  <link rel="icon" href="favicon.png" type="image/png" />
+
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://lakehouseblogs.com/" />
@@ -58,8 +60,9 @@
       <p>Discover the latest insights and tutorials about Apache Iceberg, Delta Lake, Apache Hudi, Apache Paimon, Apache Polaris, Apache Gravitino, Project Nessie, and more.</p>
       <p><a href="talk.html"><button>Apache Iceberg Talks</button></a></p>
       <p><a href="podcasts.html"><button>Apache Iceberg Podcast Episodes</button></a></p>
-                  </div>
+    </div>
   </section>
+
   <!-- Must Reads -->
   <section class="container" style="margin-top: 2rem; margin-bottom: 2rem;">
     <h2>Must Reads</h2>
@@ -227,7 +230,7 @@
     <section id="2025" class="year-section">
       <div class="year-header">
         <h2 class="year-title">2025</h2>
-        <div class="year-count">50 posts</div>
+        <div class="year-count">51 posts</div>
       </div>
       <div class="links-grid">
         
@@ -326,6 +329,20 @@
       <div class="card__footer">
         <span class="source">By Nayan Joshi</span>
         <span class="badges"><span class="badge">Apache Iceberg</span><span class="badge">Apache Hive</span><span class="badge">Data Lakehouse</span></span>
+      </div>
+    </article>
+
+    <article class="card reveal is-visible">
+      <div class="card__meta">
+        <time datetime="2025-10-16">October 15, 2025</time>
+        · <span>e6data</span>
+      </div>
+      <h3 class="card__title">
+        <a href="https://www.e6data.com/blog/apache-iceberg-million-files-metadata" target="_blank" rel="noopener">Metadata at Scale: Tackling Apache Iceberg Tables with Tens of Millions of Files</a>
+      </h3>
+      <div class="card__footer">
+        <span class="source">By Arnav Borkar</span>
+        <span class="badges"><span class="badge">Apache Iceberg</span><span class="badge">Apache Spark</span><span class="badge">Trino</span></span>
       </div>
     </article>
 
@@ -2951,43 +2968,44 @@
     </article>
       </div>
     </section></div>
-            <button class="toggle-year" aria-expanded="true">Toggle</button>
-          </div>
-          <div class="links-grid"></div>
-        </section>
-      -->
-    </div>
   </main>
 
   <!-- Footer -->
   <footer class="site-footer">
-    <div class="container">
-      <p>LakehouseBlogs.com is an open-source project. Contribute your blog via pull request.</p>
-      <a class="repo-link" href="https://github.com/AlexMercedCoder/lakehouseblogs_com" target="_blank" rel="noopener">GitHub Repository</a>
+    <div class="container footer-grid">
+      <div class="footer-col">
+        <h4>LakehouseBlogs.com</h4>
+        <p>A curated aggregator of blogs, tutorials, and news for the open source data lakehouse ecosystem.</p>
+        <p>Contribute your blog via pull request.</p>
+        <a class="repo-link" href="https://github.com/AlexMercedCoder/lakehouseblogs_com" target="_blank" rel="noopener">GitHub Repository</a>
+      </div>
+      
+      <div class="footer-col">
+        <h4>Explore Projects</h4>
+        <nav aria-label="Open source projects" class="project-links">
+          <a href="https://iceberg.apache.org/" target="_blank" rel="noopener">Apache Iceberg</a>
+          <a href="https://delta.io/" target="_blank" rel="noopener">Delta Lake</a>
+          <a href="https://hudi.apache.org/" target="_blank" rel="noopener">Apache Hudi</a>
+          <a href="https://paimon.apache.org/" target="_blank" rel="noopener">Apache Paimon</a>
+          <a href="https://polaris.apache.org/" target="_blank" rel="noopener">Apache Polaris</a>
+          <a href="https://gravitino.apache.org/" target="_blank" rel="noopener">Apache Gravitino</a>
+          <a href="https://projectnessie.org/" target="_blank" rel="noopener">Project Nessie</a>
+          <a href="https://arrow.apache.org/" target="_blank" rel="noopener">Apache Arrow</a>
+        </nav>
+      </div>
 
-      <p class="muted" style="margin-top: 1rem;">Explore the projects:</p>
-      <nav aria-label="Open source projects" class="project-links" style="margin-top:.5rem;">
-        <ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:.5rem;">
-          <li><a href="https://iceberg.apache.org/" target="_blank" rel="noopener">Apache Iceberg</a></li>
-          <li><a href="https://delta.io/" target="_blank" rel="noopener">Delta Lake</a></li>
-          <li><a href="https://hudi.apache.org/" target="_blank" rel="noopener">Apache Hudi</a></li>
-          <li><a href="https://paimon.apache.org/" target="_blank" rel="noopener">Apache Paimon</a></li>
-          <li><a href="https://polaris.apache.org/" target="_blank" rel="noopener">Apache Polaris (incubating)</a></li>
-          <li><a href="https://gravitino.apache.org/" target="_blank" rel="noopener">Apache Gravitino</a></li>
-          <li><a href="https://projectnessie.org/" target="_blank" rel="noopener">Project Nessie</a></li>
-          <li><a href="https://arrow.apache.org/" target="_blank" rel="noopener">Apache Arrow</a></li>
-        </ul>
-      </nav>
-
-      <p class="muted" style="margin-top: 1rem;">More Data Resources:</p>
-      <nav aria-label="More Data Resources" class="project-links" style="margin-top:.5rem;">
-        <ul style="list-style:none; padding:0; margin:0; display:flex; flex-wrap:wrap; gap:.5rem;">
-          <li><a href="https://alexmerceddata.com" target="_blank" rel="noopener">Alex Merced Data</a></li>
-          <li><a href="https://iceberglakehouse.com" target="_blank" rel="noopener">Iceberg Lakehouse</a></li>
-          <li><a href="https://datalakehousehub.com" target="_blank" rel="noopener">Data Lakehouse Hub</a></li>
-          <li><a href="https://agenticlakehouse.com" target="_blank" rel="noopener">Agentic Lakehouse</a></li>
-        </ul>
-      </nav>
+      <div class="footer-col">
+        <h4>More Data Resources</h4>
+        <nav aria-label="More Data Resources" class="project-links">
+          <a href="https://alexmerceddata.com" target="_blank" rel="noopener">Alex Merced Data</a>
+          <a href="https://iceberglakehouse.com" target="_blank" rel="noopener">Iceberg Lakehouse</a>
+          <a href="https://datalakehousehub.com" target="_blank" rel="noopener">Data Lakehouse Hub</a>
+          <a href="https://agenticlakehouse.com" target="_blank" rel="noopener">Agentic Lakehouse</a>
+        </nav>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026 Alex Merced. All rights reserved.</p>
     </div>
   </footer>
 
@@ -3028,7 +3046,7 @@
   </noscript>
 
   <script src="index.js" defer></script>
-<!-- Static build: 2026-05-17T13:22:27.151Z -->
+<!-- Static build: 2026-05-17T16:47:07.437Z -->
 </body>
 </html>
 

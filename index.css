@@ -393,20 +393,115 @@ body {
 
 /* -------- Footer -------- */
 .site-footer {
-  margin-top: var(--space-8);
-  padding: var(--space-6) 0 var(--space-8);
-  color: var(--text-muted);
+  margin-top: var(--space-10);
+  padding: var(--space-8) 0 var(--space-6);
+  background: color-mix(in srgb, var(--surface) 50%, var(--card));
   border-top: 1px solid var(--line);
-  text-align: center;
+  color: var(--text-muted);
+  position: relative;
 }
+
+.site-footer::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--brand), var(--accent), var(--brand));
+  background-size: 200% 100%;
+  animation: gradientFlow 6s ease infinite;
+}
+
+@keyframes gradientFlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.footer-grid {
+  display: grid;
+  gap: var(--space-6);
+}
+
+@media (min-width: 768px) {
+  .footer-grid {
+    grid-template-columns: 1.5fr 1fr 1fr;
+    align-items: start;
+  }
+}
+
+.footer-col h4 {
+  color: var(--text);
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: var(--space-4);
+  letter-spacing: 0.05em;
+}
+
+.footer-col p {
+  margin-bottom: var(--space-3);
+  max-width: 40ch;
+}
+
+.project-links {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.project-links a {
+  display: inline-flex;
+  align-items: center;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.project-links a::before {
+  content: "→";
+  margin-right: 0.5rem;
+  opacity: 0;
+  transform: translateX(-10px);
+  transition: all 0.2s ease;
+  color: var(--brand);
+}
+
+.project-links a:hover {
+  color: var(--brand);
+  transform: translateX(4px);
+}
+
+.project-links a:hover::before {
+  opacity: 1;
+  transform: translateX(0);
+}
+
 .repo-link {
   display: inline-flex;
   align-items: center;
   gap: .5rem;
   margin-top: var(--space-2);
-  padding: .5rem .75rem;
-  border: 1px dashed var(--line);
+  padding: .6rem 1.25rem;
+  border: 1px solid var(--brand);
+  background: color-mix(in srgb, var(--brand) 10%, transparent);
+  color: var(--brand);
   border-radius: var(--radius-sm);
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.repo-link:hover {
+  background: var(--brand);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px color-mix(in srgb, var(--brand) 30%, transparent);
+}
+
+.footer-bottom {
+  margin-top: var(--space-8);
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--line);
+  text-align: center;
+  font-size: 0.9rem;
 }
 
 /* -------- Accessibility & Utilities -------- */

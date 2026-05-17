@@ -208,6 +208,16 @@
       ]
     },
     {
+      "title": "Metadata at Scale: Tackling Apache Iceberg Tables with Tens of Millions of Files",
+      "date": "2025-10-16",
+      "url": "https://www.e6data.com/blog/apache-iceberg-million-files-metadata",
+      "company": "e6data",
+      "author": "Arnav Borkar",
+      "author_url": "https://www.linkedin.com/in/arnavborkar/",
+      "project_slugs": ["iceberg", "spark", "trino"],
+      "tags": ["Apache Iceberg", "Apache Spark", "Trino"]
+    },
+    {
       "title": "Try Apache Polaris (incubating) on Your Laptop with Minio",
       "date": "2025-10-14",
       "url": "https://www.dremio.com/blog/try-apache-polaris-incubating-on-your-laptop-with-minio/",

@@ -1,14 +1,131 @@
 {
   "blogs": [
     {
+      "title": "What is Agentic Analytics?",
+      "date": "2026-05-17",
+      "url": "https://www.dremio.com/blog/what-is-agentic-analytics/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.alexmerced.com/data",
+      "project_slugs": [
+        "dremio"
+      ],
+      "tags": [
+        "Agentic Analytics",
+        "AI",
+        "Dremio"
+      ]
+    },
+    {
+      "title": "Open Source and the Data Lakehouse",
+      "date": "2026-05-17",
+      "url": "https://www.dremio.com/blog/open-source-and-the-data-lakehouse/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.alexmerced.com/data",
+      "project_slugs": [
+        "iceberg",
+        "dremio"
+      ],
+      "tags": [
+        "Data Lakehouse",
+        "Open Source"
+      ]
+    },
+    {
+      "title": "What Apache Iceberg Native Actually Means",
+      "date": "2026-05-17",
+      "url": "https://www.dremio.com/blog/what-apache-iceberg-native-actually-means/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.alexmerced.com/data",
+      "project_slugs": [
+        "iceberg",
+        "dremio"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Dremio"
+      ]
+    },
+    {
+      "title": "What is Dremio?",
+      "date": "2026-05-17",
+      "url": "https://www.dremio.com/blog/what-is-dremio/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.alexmerced.com/data",
+      "project_slugs": [
+        "dremio"
+      ],
+      "tags": [
+        "Dremio"
+      ]
+    },
+    {
+      "title": "What are Table Formats and Why Were They Needed?",
+      "date": "2026-05-17",
+      "url": "https://www.dremio.com/blog/what-are-table-formats-and-why-were-they-needed/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.alexmerced.com/data",
+      "project_slugs": [
+        "iceberg",
+        "delta",
+        "hudi",
+        "dremio"
+      ],
+      "tags": [
+        "Table Formats",
+        "Dremio"
+      ]
+    },
+    {
+      "title": "Apache Polaris: The Catalog Standard for Lakehouses and AI",
+      "date": "2026-05-17",
+      "url": "https://www.dremio.com/blog/apache-polaris-the-catalog-standard-for-lakehouses-and-ai/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.alexmerced.com/data",
+      "project_slugs": [
+        "polaris",
+        "dremio"
+      ],
+      "tags": [
+        "Apache Polaris",
+        "Dremio"
+      ]
+    },
+    {
+      "title": "Semantic Layer - The Definitive Guide",
+      "date": "2026-05-17",
+      "url": "https://www.dremio.com/blog/semantic-layer-the-definitive-guide/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.alexmerced.com/data",
+      "project_slugs": [
+        "dremio"
+      ],
+      "tags": [
+        "Semantic Layer",
+        "Dremio"
+      ]
+    },
+    {
       "title": "3 Surprising Truths About the Free Apache Polaris-Based Dremio Open Catalog",
       "date": "2025-12-22",
       "url": "https://www.dremio.com/blog/3-surprising-truths-about-the-free-apache-polaris-based-dremio-open-catalog/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "polaris"],
-      "tags": ["Apache Iceberg", "Apache Polaris"]
+      "project_slugs": [
+        "iceberg",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris"
+      ]
     },
     {
       "title": "5 Counter-Intuitive Dremio Performance Tips for Lightning-Fast Iceberg Queries",
@@ -17,8 +134,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "polaris"],
-      "tags": ["Apache Iceberg", "Apache Polaris"]
+      "project_slugs": [
+        "iceberg",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris"
+      ]
     },
     {
       "title": "Data Ingestion Patterns Using Dremio: From Raw Data to Apache Iceberg",
@@ -27,18 +150,30 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "polaris"],
-      "tags": ["Apache Iceberg", "Apache Polaris"]
+      "project_slugs": [
+        "iceberg",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris"
+      ]
     },
     {
-      "title": "5 Steps to Supercharge Your Analytics with Dremio’s AI Agent and Apache Iceberg",
+      "title": "5 Steps to Supercharge Your Analytics with Dremio\u2019s AI Agent and Apache Iceberg",
       "date": "2025-12-18",
       "url": "https://www.dremio.com/blog/5-steps-to-supercharge-your-analytics-with-dremios-ai-agent-and-apache-iceberg/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "polaris"],
-      "tags": ["Apache Iceberg", "Apache Polaris"]
+      "project_slugs": [
+        "iceberg",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris"
+      ]
     },
     {
       "title": "5 Dremio Features That Will Change How You Think About The Apache Iceberg Lakehouse",
@@ -47,8 +182,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "polaris"],
-      "tags": ["Apache Iceberg", "Apache Polaris"]
+      "project_slugs": [
+        "iceberg",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris"
+      ]
     },
     {
       "title": "Ingesting Data into Apache Iceberg Using Python Tools with Dremio Catalog",
@@ -57,8 +198,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "polaris"],
-      "tags": ["Apache Iceberg", "Apache Polaris"]
+      "project_slugs": [
+        "iceberg",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris"
+      ]
     },
     {
       "title": "Try Apache Polaris (incubating) on Your Laptop with Minio",
@@ -67,28 +214,46 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "polaris"],
-      "tags": ["Apache Iceberg", "Apache Polaris"]
+      "project_slugs": [
+        "iceberg",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris"
+      ]
     },
     {
-      "title": "Apache Iceberg Table Performance Management with Dremio’s OPTIMIZE",
+      "title": "Apache Iceberg Table Performance Management with Dremio\u2019s OPTIMIZE",
       "date": "2025-10-02",
       "url": "https://www.dremio.com/blog/apache-iceberg-table-performance-management-with-dremios-optimize/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "polaris"],
-      "tags": ["Apache Iceberg", "Apache Polaris"]
+      "project_slugs": [
+        "iceberg",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris"
+      ]
     },
     {
-      "title": "Apache Iceberg Table Storage Management with Dremio’s VACUUM TABLE",
+      "title": "Apache Iceberg Table Storage Management with Dremio\u2019s VACUUM TABLE",
       "date": "2025-10-02",
       "url": "https://www.dremio.com/blog/apache-iceberg-table-storage-management-with-dremios-vacuum-table/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "polaris"],
-      "tags": ["Apache Iceberg", "Apache Polaris"]
+      "project_slugs": [
+        "iceberg",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris"
+      ]
     },
     {
       "title": "How Apache Iceberg Branching transforms Data Management",
@@ -97,8 +262,12 @@
       "company": "Starburst",
       "author": "Starburst",
       "author_url": "https://starburst.io",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Iceberg v3 + Starburst",
@@ -107,8 +276,12 @@
       "company": "Starburst",
       "author": "Starburst",
       "author_url": "https://starburst.io",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Iceberg Partitioning vs. Hive Partitioning",
@@ -117,8 +290,16 @@
       "company": "OLake",
       "author": "Sandeep Devarapalli",
       "author_url": "https://olake.io",
-      "project_slugs": ["iceberg", "hive"],
-      "tags": ["Apache Iceberg", "Hive", "Partitioning", "OLake"]
+      "project_slugs": [
+        "iceberg",
+        "hive"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Hive",
+        "Partitioning",
+        "OLake"
+      ]
     },
     {
       "title": "Apache Hive vs Apache Iceberg: Choosing the Right Data Lakehouse Technology",
@@ -127,8 +308,15 @@
       "company": "OLake",
       "author": "Akshay Kumar Sharma",
       "author_url": "https://olake.io",
-      "project_slugs": ["iceberg", "hive"],
-      "tags": ["Apache Iceberg", "Apache Hive", "Data Lakehouse"]
+      "project_slugs": [
+        "iceberg",
+        "hive"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Hive",
+        "Data Lakehouse"
+      ]
     },
     {
       "title": "TPC-H Databricks vs Apache Iceberg - (OLake + AWS Glue + EMR)",
@@ -137,8 +325,15 @@
       "company": "OLake",
       "author": "Nayan Joshi",
       "author_url": "https://olake.io",
-      "project_slugs": ["iceberg", "hive"],
-      "tags": ["Apache Iceberg", "Apache Hive", "Data Lakehouse"]
+      "project_slugs": [
+        "iceberg",
+        "hive"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Hive",
+        "Data Lakehouse"
+      ]
     },
     {
       "title": "Comparison of Delete Strategies in Apache Iceberg and Delta Lake",
@@ -147,8 +342,14 @@
       "company": "OLake",
       "author": "OLake Team",
       "author_url": "https://olake.io",
-      "project_slugs": ["iceberg", "delta"],
-      "tags": ["Apache Iceberg", "Delta Lake"]
+      "project_slugs": [
+        "iceberg",
+        "delta"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Delta Lake"
+      ]
     },
     {
       "title": "The Ultimate Guide to Open Table Formats - Iceberg, Delta Lake, Hudi, Paimon, and DuckLake",
@@ -157,8 +358,19 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "delta", "paimon", "hudi"],
-      "tags": ["Apache Iceberg", "Delta Lake", "Apache Paimon", "Apache Hudi", "DuckLake"]
+      "project_slugs": [
+        "iceberg",
+        "delta",
+        "paimon",
+        "hudi"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Delta Lake",
+        "Apache Paimon",
+        "Apache Hudi",
+        "DuckLake"
+      ]
     },
     {
       "title": "The 2025 & 2026 Ultimate Guide to the Data Lakehouse and the Data Lakehouse Ecosystem",
@@ -167,8 +379,22 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "delta", "hudi", "paimon", "polaris", "gravitino"],
-      "tags": ["Apache Iceberg", "Delta Lake", "Apache Hudi", "Apache Paimon", "Apache Polaris", "Apache Gravitino"]
+      "project_slugs": [
+        "iceberg",
+        "delta",
+        "hudi",
+        "paimon",
+        "polaris",
+        "gravitino"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Delta Lake",
+        "Apache Hudi",
+        "Apache Paimon",
+        "Apache Polaris",
+        "Apache Gravitino"
+      ]
     },
     {
       "title": "What's New in Apache Iceberg 1.10.0, and what comes next!",
@@ -177,8 +403,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Looking back the last year in Lakehouse OSS: Advances in Apache Arrow, Iceberg & Polaris (incubating)",
@@ -187,8 +417,16 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["arrow", "iceberg", "polaris"],
-      "tags": ["Apache Arrow", "Apache Iceberg", "Apache Polaris"]
+      "project_slugs": [
+        "arrow",
+        "iceberg",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Arrow",
+        "Apache Iceberg",
+        "Apache Polaris"
+      ]
     },
     {
       "title": "Scaling Data Lakes: Moving from Raw Parquet to Iceberg Lakehouses",
@@ -197,8 +435,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Unlocking the Power of Agentic AI with Apache Iceberg and Dremio",
@@ -207,8 +449,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Kafka to Iceberg - Exploring the Options",
@@ -217,18 +463,26 @@
       "company": "Confluent",
       "author": "Robin Moffatt",
       "author_url": "https://www.linkedin.com/in/robinmoffatt",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
-      "title": "Optimizing Apache Iceberg Tables – Manual and Automatic",
+      "title": "Optimizing Apache Iceberg Tables \u2013 Manual and Automatic",
       "date": "2025-08-08",
       "url": "https://www.dremio.com/blog/optimizing-iceberg-tables/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Optimizing Apache Iceberg for Agentic AI",
@@ -237,8 +491,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "5 Ways Dremio Makes Apache Iceberg Lakehouses Easy",
@@ -247,8 +505,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "How to Load Data from MySQL to Iceberg in Real Time",
@@ -257,8 +519,12 @@
       "company": "BladePipe",
       "author": "BladePipe",
       "author_url": "https://www.bladepipe.com",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Making Sense of Apache Iceberg Statistics",
@@ -267,8 +533,12 @@
       "company": "Ryft",
       "author": "Guy Yasoor",
       "author_url": "https://www.linkedin.com/in/guy-yasoor/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Quick Start with Apache Iceberg and Apache Polaris on your Laptop (quick setup notebook environment)",
@@ -277,8 +547,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg", "polaris"],
-      "tags": ["Apache Iceberg", "Apache Polaris"]
+      "project_slugs": [
+        "iceberg",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris"
+      ]
     },
     {
       "title": "Query Results Caching on Iceberg Tables",
@@ -287,8 +563,12 @@
       "company": "Dremio",
       "author": "Benny Chow",
       "author_url": "https://www.dremio.com/authors/benny-chow/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Writing to Apache Iceberg on S3 using Kafka Connect with Glue catalog",
@@ -297,8 +577,12 @@
       "company": "Confluent",
       "author": "Robin Moffatt",
       "author_url": "https://www.linkedin.com/in/robinmoffatt",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Benchmarking Framework for the Apache Iceberg Catalog, Polaris",
@@ -307,8 +591,14 @@
       "company": "Dremio",
       "author": "Pierre Laporte",
       "author_url": "https://www.dremio.com/authors/pierre-laporte/",
-      "project_slugs": ["polaris", "iceberg"],
-      "tags": ["Apache Polaris", "Apache Iceberg"]
+      "project_slugs": [
+        "polaris",
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Polaris",
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Writing to Apache Iceberg on S3 using Flink SQL with Glue catalog",
@@ -317,18 +607,26 @@
       "company": "Confluent",
       "author": "Robin Moffatt",
       "author_url": "https://www.linkedin.com/in/robinmoffatt",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Querying Apache Iceberg with Sub-Second Performance",
       "date": "2025-06-11",
       "url": "https://www.firebolt.io/blog/querying-apache-iceberg-with-sub-second-performance",
       "company": "Firebolt",
-      "author": "Lorenz Hübschle",
+      "author": "Lorenz H\u00fcbschle",
       "author_url": "https://www.linkedin.com/in/lorenzhs",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Extending Apache Iceberg: Best Practices for Storing and Discovering Custom Metadata",
@@ -337,18 +635,26 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
-      "title": "Using Dremio with Confluent’s TableFlow for Real-Time Apache Iceberg Analytics",
+      "title": "Using Dremio with Confluent\u2019s TableFlow for Real-Time Apache Iceberg Analytics",
       "date": "2025-05-30",
       "url": "https://www.dremio.com/blog/using-dremio-with-confluents-tableflow-for-real-time-apache-iceberg-analytics/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "What Are Apache Iceberg Tables? Benefits and challenges",
@@ -357,8 +663,12 @@
       "company": "Redpanda",
       "author": "Redpanda",
       "author_url": "https://redpanda.com",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Real-Time Analytics on Apache Iceberg with Tinybird",
@@ -367,8 +677,12 @@
       "company": "Tinybird",
       "author": "Alberto Romeu",
       "author_url": "https://www.linkedin.com/in/alrocar/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Introducing Dremio Auth Manager for Apache Iceberg",
@@ -377,28 +691,40 @@
       "company": "Dremio",
       "author": "Alex Dutra",
       "author_url": "https://www.dremio.com/authors/alex-dutra/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
-      "title": "What’s New in Apache Iceberg Format Version 3?",
+      "title": "What\u2019s New in Apache Iceberg Format Version 3?",
       "date": "2025-04-30",
       "url": "https://www.dremio.com/blog/apache-iceberg-v3/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
-      "title": "Dremio’s Apache Iceberg Clustering: Technical Blog",
+      "title": "Dremio\u2019s Apache Iceberg Clustering: Technical Blog",
       "date": "2025-04-28",
       "url": "https://www.dremio.com/blog/dremios-apache-iceberg-clustering-technical-blog/",
       "company": "Dremio",
       "author": "Gang Xiao",
       "author_url": "https://www.dremio.com/authors/gang-xiao/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Credential Vending with Iceberg REST Catalogs in Dremio",
@@ -407,28 +733,44 @@
       "company": "Dremio",
       "author": "Adam Szita & Tamas Mate",
       "author_url": "https://www.dremio.com/authors/adam-szita/",
-      "project_slugs": ["iceberg", "polaris", "nessie"],
-      "tags": ["Apache Iceberg", "Apache Polaris", "Project Nessie"]
+      "project_slugs": [
+        "iceberg",
+        "polaris",
+        "nessie"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris",
+        "Project Nessie"
+      ]
     },
     {
-      "title": "Disaster Recovery for Apache Iceberg Tables – Restoring from Backup and Getting Back Online",
+      "title": "Disaster Recovery for Apache Iceberg Tables \u2013 Restoring from Backup and Getting Back Online",
       "date": "2025-03-26",
       "url": "https://www.dremio.com/blog/disaster-recovery-for-apache-iceberg-tables-restoring-from-backup-and-getting-back-online/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "How to Load Data into Apache Iceberg: A Step-by-Step Tutorial",
       "date": "2025-03-20",
       "url": "https://estuary.dev/blog/loading-data-into-apache-iceberg/",
       "company": "Estuary",
-      "author": "Dani Pálma",
+      "author": "Dani P\u00e1lma",
       "author_url": "https://www.linkedin.com/in/danthelion",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "The Future of Apache Polaris (Incubating)",
@@ -437,8 +779,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Building AI Agents with LangChain using Dremio, Iceberg, and Unified Data",
@@ -447,8 +793,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "3 Reasons Why Dremio Is the Best SQL Query Engine for Apache Iceberg",
@@ -457,8 +807,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Building a Data Lake with Debezium and Apache Iceberg",
@@ -467,8 +821,12 @@
       "company": "Memiiso Community",
       "author": "Ismail Simsek",
       "author_url": "https://www.linkedin.com/in/ismailsimsek/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Adopting Apache Iceberg? How Dremio can enhance your Iceberg Journey",
@@ -477,8 +835,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.alexmerced.com/data",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Breaking Down the Benefits of Lakehouses, Apache Iceberg and Dremio",
@@ -487,8 +849,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "nessie"],
-      "tags": ["Apache Iceberg", "Project Nessie"]
+      "project_slugs": [
+        "iceberg",
+        "nessie"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Project Nessie"
+      ]
     },
     {
       "title": "Hands-on with Apache Iceberg Tables using PyIceberg using Nessie and Minio",
@@ -497,8 +865,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "nessie"],
-      "tags": ["Apache Iceberg", "Project Nessie"]
+      "project_slugs": [
+        "iceberg",
+        "nessie"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Project Nessie"
+      ]
     },
     {
       "title": "A Brief Guide to the Governance of Apache Iceberg Tables",
@@ -507,8 +881,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Ultimate Directory of Apache Iceberg Resources",
@@ -517,8 +895,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "A Guide to Change Data Capture (CDC) with Apache Iceberg",
@@ -527,18 +909,28 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
-      "title": "Using Nessie’s REST Catalog Support for Working with Apache Iceberg Tables",
+      "title": "Using Nessie\u2019s REST Catalog Support for Working with Apache Iceberg Tables",
       "date": "2024-10-03",
       "url": "https://www.dremio.com/blog/use-nessie-with-iceberg-rest-catalog/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["nessie", "iceberg"],
-      "tags": ["Project Nessie", "Apache Iceberg"]
+      "project_slugs": [
+        "nessie",
+        "iceberg"
+      ],
+      "tags": [
+        "Project Nessie",
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Using Nussknacker with Apache Iceberg: Periodical report example",
@@ -547,8 +939,12 @@
       "company": "Nussknacker",
       "author": "Arkadiusz Burdach",
       "author_url": "https://www.linkedin.com/in/arekburdach/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Hands-on with Apache Iceberg on Your Laptop: Deep Dive with Apache Spark, Nessie, Minio, Dremio, Polars and Seaborn",
@@ -557,8 +953,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "nessie"],
-      "tags": ["Apache Iceberg", "Project Nessie"]
+      "project_slugs": [
+        "iceberg",
+        "nessie"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Project Nessie"
+      ]
     },
     {
       "title": "Leveraging Apache Iceberg Metadata Tables in Dremio for Effective Data Lakehouse Auditing",
@@ -567,8 +969,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Why Thinking about Apache Iceberg Catalogs Like Nessie and Apache Polaris (incubating) Matters",
@@ -577,8 +983,16 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "nessie", "polaris"],
-      "tags": ["Apache Iceberg", "Project Nessie", "Apache Polaris"]
+      "project_slugs": [
+        "iceberg",
+        "nessie",
+        "polaris"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Project Nessie",
+        "Apache Polaris"
+      ]
     },
     {
       "title": "8 Tools For Ingesting Data Into Apache Iceberg",
@@ -587,8 +1001,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Evolving the Data Lake: From CSV/JSON to Parquet to Apache Iceberg",
@@ -597,8 +1015,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Guide to Maintaining an Apache Iceberg Lakehouse",
@@ -607,8 +1029,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Migration Guide for Apache Iceberg Lakehouses",
@@ -617,8 +1043,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Getting Hands-on with Polaris OSS, Apache Iceberg and Apache Spark",
@@ -627,8 +1057,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["polaris", "iceberg"],
-      "tags": ["Apache Polaris", "Apache Iceberg"]
+      "project_slugs": [
+        "polaris",
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Polaris",
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Sending Data to Apache Iceberg from Apache Kafka with Apache Flink",
@@ -637,8 +1073,12 @@
       "company": "Decodable",
       "author": "Robin Moffatt",
       "author_url": "https://www.linkedin.com/in/robinmoffatt",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "What is a Data Lakehouse and a Table Format?",
@@ -647,8 +1087,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "How to get data from Apache Kafka to Apache Iceberg on S3 with Decodable",
@@ -657,8 +1101,12 @@
       "company": "Decodable",
       "author": "Robin Moffatt",
       "author_url": "https://www.linkedin.com/in/robinmoffatt",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "The Nessie Ecosystem and the Reach of Git for Data for Apache Iceberg",
@@ -667,8 +1115,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["nessie", "iceberg"],
-      "tags": ["Project Nessie", "Apache Iceberg"]
+      "project_slugs": [
+        "nessie",
+        "iceberg"
+      ],
+      "tags": [
+        "Project Nessie",
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "The Evolution of Apache Iceberg Catalogs",
@@ -677,8 +1131,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "From JSON, CSV and Parquet to Dashboards with Apache Iceberg and Dremio",
@@ -687,8 +1145,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "From Apache Druid to Dashboards with Dremio and Apache Iceberg",
@@ -697,8 +1159,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Ingesting Data into Nessie & Apache Iceberg with kafka-connect and querying it with Dremio",
@@ -707,8 +1173,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["nessie", "iceberg"],
-      "tags": ["Project Nessie", "Apache Iceberg"]
+      "project_slugs": [
+        "nessie",
+        "iceberg"
+      ],
+      "tags": [
+        "Project Nessie",
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "From MySQL to Dashboards with Dremio and Apache Iceberg",
@@ -717,8 +1189,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "From Elasticsearch to Dashboards with Dremio and Apache Iceberg",
@@ -727,8 +1203,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Streaming and Batch Data Lakehouses with Apache Iceberg, Dremio and Upsolver",
@@ -737,8 +1217,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "End-to-End Basic Data Engineering Tutorial (Apache Spark, Apache Iceberg, Dremio, Apache Superset, Nessie)",
@@ -747,8 +1231,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "nessie"],
-      "tags": ["Apache Iceberg", "Project Nessie"]
+      "project_slugs": [
+        "iceberg",
+        "nessie"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Project Nessie"
+      ]
     },
     {
       "title": "From MongoDB to Dashboards with Dremio and Apache Iceberg",
@@ -757,8 +1247,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "From SQLServer to Dashboards with Dremio and Apache Iceberg",
@@ -767,8 +1261,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "BI Dashboards with Apache Iceberg Using AWS Glue and Apache Superset",
@@ -777,8 +1275,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "From Postgres to Dashboards with Dremio and Apache Iceberg",
@@ -787,8 +1289,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Run Graph Queries on Apache Iceberg Tables with Dremio & Puppygraph",
@@ -797,8 +1303,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "The Apache Iceberg Lakehouse: The Great Data Equalizer",
@@ -807,8 +1317,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Data Lakehouse Versioning Comparison: (Nessie, Apache Iceberg, LakeFS)",
@@ -817,8 +1331,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["nessie", "iceberg"],
-      "tags": ["Project Nessie", "Apache Iceberg"]
+      "project_slugs": [
+        "nessie",
+        "iceberg"
+      ],
+      "tags": [
+        "Project Nessie",
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "What is Lakehouse Management?: Git-for-Data, Automated Apache Iceberg Table Maintenance and more",
@@ -827,8 +1347,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "nessie"],
-      "tags": ["Apache Iceberg", "Project Nessie"]
+      "project_slugs": [
+        "iceberg",
+        "nessie"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Project Nessie"
+      ]
     },
     {
       "title": "What is DataOps? Automating Data Management on the Apache Iceberg Lakehouse",
@@ -837,8 +1363,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "What is the Data Lakehouse and the Role of Apache Iceberg, Nessie and Dremio?",
@@ -847,8 +1377,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "nessie"],
-      "tags": ["Apache Iceberg", "Project Nessie"]
+      "project_slugs": [
+        "iceberg",
+        "nessie"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Project Nessie"
+      ]
     },
     {
       "title": "Ingesting Data Into Apache Iceberg Tables with Dremio: A Unified Path to Iceberg",
@@ -857,8 +1393,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Open Source and the Data Lakehouse: Apache Arrow, Apache Iceberg, Nessie and Dremio",
@@ -867,8 +1407,16 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["arrow", "iceberg", "nessie"],
-      "tags": ["Apache Arrow", "Apache Iceberg", "Project Nessie"]
+      "project_slugs": [
+        "arrow",
+        "iceberg",
+        "nessie"
+      ],
+      "tags": [
+        "Apache Arrow",
+        "Apache Iceberg",
+        "Project Nessie"
+      ]
     },
     {
       "title": "How not to use Apache Iceberg",
@@ -877,8 +1425,12 @@
       "company": "Dremio",
       "author": "Ajantha Bhat",
       "author_url": "https://www.linkedin.com/in/ajanthabhat/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Apache Hive-4.x with Iceberg Branches & Tags",
@@ -887,8 +1439,12 @@
       "company": "Cloudera",
       "author": "Ayush Saxena",
       "author_url": "https://www.linkedin.com/in/ayush151/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Apache Hive 4.x With Apache Iceberg",
@@ -897,8 +1453,12 @@
       "company": "Cloudera",
       "author": "Ayush Saxena",
       "author_url": "https://www.linkedin.com/in/ayush151/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Getting Started with Flink SQL and Apache Iceberg",
@@ -907,8 +1467,12 @@
       "company": "Dremio",
       "author": "Dipankar Mazumdar & Ajantha Bhat",
       "author_url": "https://www.linkedin.com/in/dipankar-mazumdar/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Using Flink with Apache Iceberg and Nessie",
@@ -917,8 +1481,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "nessie"],
-      "tags": ["Apache Iceberg", "Project Nessie"]
+      "project_slugs": [
+        "iceberg",
+        "nessie"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Project Nessie"
+      ]
     },
     {
       "title": "From Hive Tables to Iceberg Tables: Hassle-Free",
@@ -927,8 +1497,12 @@
       "company": "Cloudera",
       "author": "Srinivas Rishindra Pothireddi",
       "author_url": "https://www.linkedin.com/in/srinivas-rishindra/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "12 Times Faster Query Planning With Iceberg Manifest Caching in Impala",
@@ -937,18 +1511,26 @@
       "company": "Cloudera",
       "author": "Riza Suminto",
       "author_url": "https://www.linkedin.com/in/rizasuminto/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
-      "title": "lakeFS ♥️ Apache Iceberg",
+      "title": "lakeFS \u2665\ufe0f Apache Iceberg",
       "date": "2023-06-26",
       "url": "https://lakefs.io/blog/using-lakefs-with-apache-iceberg/",
       "company": "LakeFS",
       "author": "Robin Moffatt",
       "author_url": "https://www.linkedin.com/in/robinmoffatt",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "How Bilibili Builds OLAP Data Lakehouse with Apache Iceberg",
@@ -957,8 +1539,12 @@
       "company": "Bilibili",
       "author": "Rui Li",
       "author_url": "https://www.linkedin.com/in/rui-li-19282979/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "How to Convert JSON Files Into an Apache Iceberg Table with Dremio",
@@ -967,8 +1553,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Deep Dive Into Configuring Your Apache Iceberg Catalog with Apache Spark",
@@ -977,8 +1567,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Streamlining Data Quality in Apache Iceberg with write-audit-publish & branching",
@@ -987,8 +1581,12 @@
       "company": "Dremio",
       "author": "Dipankar Mazumdar & Ajantha Bhat",
       "author_url": "https://www.linkedin.com/in/dipankar-mazumdar/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Introducing the Apache Iceberg Catalog Migration Tool",
@@ -997,18 +1595,26 @@
       "company": "Dremio",
       "author": "Dipankar Mazumdar & Ajantha Bhat",
       "author_url": "https://www.linkedin.com/in/dipankar-mazumdar/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
-        {
+    {
       "title": "3 Ways to Use Python with Apache Iceberg",
       "date": "2023-04-12",
       "url": "https://www.dremio.com/blog/3-ways-to-use-python-with-apache-iceberg/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "3 Ways to Convert a Delta Lake Table Into an Apache Iceberg Table",
@@ -1017,8 +1623,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["delta", "iceberg"],
-      "tags": ["Delta Lake", "Apache Iceberg"]
+      "project_slugs": [
+        "delta",
+        "iceberg"
+      ],
+      "tags": [
+        "Delta Lake",
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "How to Convert CSV Files into an Apache Iceberg table with Dremio",
@@ -1027,8 +1639,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Open Data Lakehouse powered by Iceberg for all your Data Warehouse needs",
@@ -1036,9 +1652,13 @@
       "url": "https://blog.cloudera.com/open-data-lakehouse-powered-by-iceberg-for-all-your-data-warehouse-needs/",
       "company": "Cloudera",
       "author": "Zoltan Borok-Nagy, Ayush Saxena, Tamas Mate, Simhadri Govindappa",
-      "author_url": "https://www.linkedin.com/in/zoltán-borók-nagy-7370a65b/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "author_url": "https://www.linkedin.com/in/zolt\u00e1n-bor\u00f3k-nagy-7370a65b/",
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Exploring Branch & Tags in Apache Iceberg using Spark",
@@ -1047,8 +1667,14 @@
       "company": "Dremio",
       "author": "Dipankar Mazumdar",
       "author_url": "https://www.linkedin.com/in/dipankar-mazumdar/",
-      "project_slugs": ["iceberg", "spark"],
-      "tags": ["Apache Iceberg", "Apache Spark"]
+      "project_slugs": [
+        "iceberg",
+        "spark"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Spark"
+      ]
     },
     {
       "title": "Iceberg Tables: Catalog Support Now Available",
@@ -1057,8 +1683,12 @@
       "company": "Snowflake",
       "author": "Ron Ortloff & Dennis Huo",
       "author_url": "https://www.linkedin.com/in/ron-ortloff/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Open Data Lakehouse powered by Apache Iceberg on Apache Ozone",
@@ -1067,8 +1697,12 @@
       "company": "Cloudera",
       "author": "Saketa Chalamchala",
       "author_url": "https://www.linkedin.com/in/saketa-chalamchala-3602026a",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Dealing with Data Incidents Using the Rollback Feature in Apache Iceberg",
@@ -1077,18 +1711,26 @@
       "company": "Dremio",
       "author": "Dipankar Mazumdar",
       "author_url": "https://www.linkedin.com/in/dipankar-mazumdar/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
-      "title": "Partition and File Pruning for Dremio’s Apache Iceberg-backed Reflections",
+      "title": "Partition and File Pruning for Dremio\u2019s Apache Iceberg-backed Reflections",
       "date": "2023-02-08",
       "url": "https://www.dremio.com/blog/partition-and-file-pruning-for-dremios-apache-iceberg-backed-reflections/",
       "company": "Dremio",
       "author": "Benny Chow",
       "author_url": "https://www.linkedin.com/in/bechow/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Understanding Iceberg Table Metadata",
@@ -1097,8 +1739,12 @@
       "company": "Snowflake",
       "author": "Phani Raj",
       "author_url": "https://www.linkedin.com/in/phani-raj-9830a31b/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Creating and managing Apache Iceberg tables using serverless features and without coding",
@@ -1107,8 +1753,12 @@
       "company": "Snowflake",
       "author": "Parag Jain",
       "author_url": "https://www.linkedin.com/in/paragjainsa/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Getting started with Apache Iceberg",
@@ -1117,8 +1767,12 @@
       "company": "Snowflake",
       "author": "Jedidiah Rajbhushan",
       "author_url": "https://www.linkedin.com/in/jrajbhushan/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "How Apache Iceberg enables ACID compliance for data lakes",
@@ -1127,18 +1781,26 @@
       "company": "Snowflake",
       "author": "Sumeet Tandure",
       "author_url": "https://www.linkedin.com/in/sumeettandure/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
-        {
+    {
       "title": "Multi-Cloud Open Lakehouse with Apache Iceberg in Cloudera Data Platform",
       "date": "2022-12-15",
       "url": "https://blog.cloudera.com/implement-a-multi-cloud-open-lakehouse-with-apache-iceberg-in-cloudera-data-platform/",
       "company": "Cloudera",
       "author": "Bill Zhang, Shaun Ahmadian, Zoltan Borok-Nagy, Vincent Kulandaisamy",
       "author_url": "https://www.linkedin.com/in/billzhang01/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Connecting Tableau to Apache Iceberg Tables with Dremio",
@@ -1147,8 +1809,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Getting Started with Project Nessie, Apache Iceberg, and Apache Spark Using Docker",
@@ -1157,8 +1823,16 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "nessie", "spark"],
-      "tags": ["Apache Iceberg", "Project Nessie", "Apache Spark"]
+      "project_slugs": [
+        "iceberg",
+        "nessie",
+        "spark"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Project Nessie",
+        "Apache Spark"
+      ]
     },
     {
       "title": "Apache Iceberg FAQ",
@@ -1167,8 +1841,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "A Notebook for getting started with Project Nessie, Apache Iceberg, and Apache Spark",
@@ -1177,8 +1855,16 @@
       "company": "Dremio",
       "author": "Dipankar Mazumdar",
       "author_url": "https://www.linkedin.com/in/dipankar-mazumdar/",
-      "project_slugs": ["iceberg", "nessie", "spark"],
-      "tags": ["Apache Iceberg", "Project Nessie", "Apache Spark"]
+      "project_slugs": [
+        "iceberg",
+        "nessie",
+        "spark"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Project Nessie",
+        "Apache Spark"
+      ]
     },
     {
       "title": "Time Travel with Dremio and Apache Iceberg",
@@ -1187,8 +1873,12 @@
       "company": "Dremio",
       "author": "Michael Flower",
       "author_url": "https://www.linkedin.com/in/michael-flower-b0a3474/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Compaction in Apache Iceberg: Fine-Tuning Your Iceberg Table's Data Files",
@@ -1197,8 +1887,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "The Life of a Read Query for Apache Iceberg Tables",
@@ -1207,8 +1901,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Puffins and Icebergs: Additional Stats for Apache Iceberg Tables",
@@ -1217,8 +1915,12 @@
       "company": "Dremio",
       "author": "Dipankar Mazumdar",
       "author_url": "https://www.linkedin.com/in/dipankar-mazumdar/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Apache Iceberg and the Right to be Forgotten",
@@ -1227,8 +1929,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Streaming Data into Apache Iceberg tables using AWS Kinesis and AWS Glue",
@@ -1237,8 +1943,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Iceberg Flink Sink: Stream Directly into your Data Warehouse Tables",
@@ -1247,8 +1957,14 @@
       "company": "Tabular",
       "author": "Sam Redai",
       "author_url": "https://www.linkedin.com/in/sredai/",
-      "project_slugs": ["iceberg", "flink"],
-      "tags": ["Apache Iceberg", "Apache Flink"]
+      "project_slugs": [
+        "iceberg",
+        "flink"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Flink"
+      ]
     },
     {
       "title": "Partitioning for Correctness (and Performance)",
@@ -1257,18 +1973,26 @@
       "company": "Tabular",
       "author": "Jason Reid",
       "author_url": "https://www.linkedin.com/in/jasonreid/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
-      "title": "Ensuring High Performance at Any Scale with Apache Iceberg’s Object Store File Layout",
+      "title": "Ensuring High Performance at Any Scale with Apache Iceberg\u2019s Object Store File Layout",
       "date": "2022-09-20",
       "url": "https://www.dremio.com/subsurface/ensuring-high-performance-at-any-scale-with-apache-icebergs-object-store-file-layout/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Introduction to Apache Iceberg Using Spark",
@@ -1277,8 +2001,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "spark"],
-      "tags": ["Apache Iceberg", "Apache Spark"]
+      "project_slugs": [
+        "iceberg",
+        "spark"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Spark"
+      ]
     },
     {
       "title": "How Z-Ordering in Apache Iceberg Helps Improve Performance",
@@ -1287,18 +2017,26 @@
       "company": "Dremio",
       "author": "Dipankar Mazumdar",
       "author_url": "https://www.linkedin.com/in/dipankar-mazumdar/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
-      "title": "Apache Iceberg 101 – Your Guide to Learning Apache Iceberg Concepts and Practices",
+      "title": "Apache Iceberg 101 \u2013 Your Guide to Learning Apache Iceberg Concepts and Practices",
       "date": "2022-09-12",
       "url": "https://www.dremio.com/subsurface/apache-iceberg-101-your-guide-to-learning-apache-iceberg-concepts-and-practices/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "A Hands-On Look at the Structure of an Apache Iceberg Table",
@@ -1307,8 +2045,12 @@
       "company": "Dremio",
       "author": "Dipankar Mazumdar",
       "author_url": "https://www.linkedin.com/in/dipankar-mazumdar/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Future-Proof Partitioning and Fewer Table Rewrites with Apache Iceberg",
@@ -1317,8 +2059,12 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "How to use Apache Iceberg in CDP's Open Lakehouse",
@@ -1327,8 +2073,12 @@
       "company": "Cloudera",
       "author": "Bill Zhang, Peter Ableda, Shaun Ahmadian, Manish Maheshwari",
       "author_url": "https://www.linkedin.com/in/billzhang01/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Near Real-Time Ingestion For Trino",
@@ -1337,8 +2087,14 @@
       "company": "Starburst",
       "author": "Eric Hwang, Monica Miller, Brian Zhan",
       "author_url": "https://www.linkedin.com/in/ericwhwang",
-      "project_slugs": ["trino", "iceberg"],
-      "tags": ["Trino", "Apache Iceberg"]
+      "project_slugs": [
+        "trino",
+        "iceberg"
+      ],
+      "tags": [
+        "Trino",
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "How to implement Apache Iceberg in AWS Athena",
@@ -1347,8 +2103,12 @@
       "company": "Big Data Demystified",
       "author": "Shneior Dicastro",
       "author_url": "",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Supercharge your Data Lakehouse with Apache Iceberg in Cloudera Data Platform",
@@ -1357,8 +2117,12 @@
       "company": "Cloudera",
       "author": "Bill Zhang, Shaun Ahmadian",
       "author_url": "https://www.linkedin.com/in/billzhang01/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Migrating a Hive Table to an Iceberg Table Hands-on Tutorial",
@@ -1367,18 +2131,28 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "hive"],
-      "tags": ["Apache Iceberg", "Apache Hive"]
+      "project_slugs": [
+        "iceberg",
+        "hive"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Hive"
+      ]
     },
     {
-      "title": "Fewer Accidental Full Table Scans Brought to You by Apache Iceberg’s Hidden Partitioning",
+      "title": "Fewer Accidental Full Table Scans Brought to You by Apache Iceberg\u2019s Hidden Partitioning",
       "date": "2022-05-21",
       "url": "https://www.dremio.com/subsurface/fewer-accidental-full-table-scans-brought-to-you-by-apache-icebergs-hidden-partitioning/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "An Introduction To The Iceberg Java API Part 2 - Table Scans",
@@ -1387,8 +2161,14 @@
       "company": "Tabular",
       "author": "Sam Redai",
       "author_url": "https://www.linkedin.com/in/sredai/",
-      "project_slugs": ["iceberg", "java"],
-      "tags": ["Apache Iceberg", "Java"]
+      "project_slugs": [
+        "iceberg",
+        "java"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Java"
+      ]
     },
     {
       "title": "Iceberg's Guiding Light: The Iceberg Open Table Format Specification",
@@ -1397,8 +2177,12 @@
       "company": "Tabular",
       "author": "Sam Redai",
       "author_url": "https://www.linkedin.com/in/sredai/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "How to Migrate a Hive Table to an Iceberg Table",
@@ -1407,8 +2191,14 @@
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg", "hive"],
-      "tags": ["Apache Iceberg", "Apache Hive"]
+      "project_slugs": [
+        "iceberg",
+        "hive"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Hive"
+      ]
     },
     {
       "title": "Using Iceberg's S3FileIO Implementation To Store Your Data In MinIO",
@@ -1417,18 +2207,28 @@
       "company": "Tabular",
       "author": "Sam Redai",
       "author_url": "https://www.linkedin.com/in/sredai/",
-      "project_slugs": ["iceberg", "minio"],
-      "tags": ["Apache Iceberg", "MinIO"]
+      "project_slugs": [
+        "iceberg",
+        "minio"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "MinIO"
+      ]
     },
     {
-      "title": "Maintaining Iceberg Tables – Compaction, Expiring Snapshots, and More",
+      "title": "Maintaining Iceberg Tables \u2013 Compaction, Expiring Snapshots, and More",
       "date": "2022-04-07",
       "url": "https://www.dremio.com/subsurface/maintaining-iceberg-tables-compaction-expiring-snapshots-and-more/",
       "company": "Dremio",
       "author": "Alex Merced",
       "author_url": "https://www.linkedin.com/in/alexmerced/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "An Introduction To The Iceberg Java API - Part 1",
@@ -1437,8 +2237,14 @@
       "company": "Tabular",
       "author": "Sam Redai",
       "author_url": "https://www.linkedin.com/in/sredai/",
-      "project_slugs": ["iceberg", "java"],
-      "tags": ["Apache Iceberg", "Java"]
+      "project_slugs": [
+        "iceberg",
+        "java"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Java"
+      ]
     },
     {
       "title": "Integrated Audits: Streamlined Data Observability With Apache Iceberg",
@@ -1447,8 +2253,12 @@
       "company": "Tabular",
       "author": "Sam Redai",
       "author_url": "https://www.linkedin.com/in/sredai/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Introducing Apache Iceberg in Cloudera Data Platform",
@@ -1457,18 +2267,26 @@
       "company": "Cloudera",
       "author": "Bill Zhang, Peter Vary, Marton Bod, Wing Yew Poon",
       "author_url": "https://www.linkedin.com/in/billzhang01/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
-        {
+    {
       "title": "What's new in Iceberg 0.13",
       "date": "2022-02-22",
       "url": "https://tabular.io/blog/whats-new-in-iceberg-0.13/",
       "company": "Tabular",
       "author": "Ryan Blue",
       "author_url": "https://www.linkedin.com/in/rdblue/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Apache Iceberg Becomes Industry Open Standard with Ecosystem Adoption",
@@ -1477,8 +2295,12 @@
       "company": "Dremio",
       "author": "Mark Lyons",
       "author_url": "https://www.linkedin.com/in/markclyons/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Docker, Spark, and Iceberg: The Fastest Way to Try Iceberg!",
@@ -1487,8 +2309,14 @@
       "company": "Tabular",
       "author": "Sam Redai & Kyle Bendickson",
       "author_url": "https://www.linkedin.com/in/sredai/",
-      "project_slugs": ["iceberg", "spark"],
-      "tags": ["Apache Iceberg", "Apache Spark"]
+      "project_slugs": [
+        "iceberg",
+        "spark"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Spark"
+      ]
     },
     {
       "title": "Expanding the Data Cloud with Apache Iceberg",
@@ -1497,18 +2325,26 @@
       "company": "Snowflake",
       "author": "James Malone",
       "author_url": "https://www.linkedin.com/in/jamesamalone/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
-        {
+    {
       "title": "Iceberg FileIO: Cloud Native Tables",
       "date": "2021-12-16",
       "url": "https://tabular.io/blog/iceberg-fileio/",
       "company": "Tabular",
       "author": "Daniel Weeks",
       "author_url": "https://www.linkedin.com/in/daniel-weeks-a1946860/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Using Spark in EMR with Apache Iceberg",
@@ -1517,8 +2353,14 @@
       "company": "Tabular",
       "author": "Sam Redai",
       "author_url": "https://www.linkedin.com/in/sredai/",
-      "project_slugs": ["iceberg", "spark"],
-      "tags": ["Apache Iceberg", "Apache Spark"]
+      "project_slugs": [
+        "iceberg",
+        "spark"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Spark"
+      ]
     },
     {
       "title": "Metadata Indexing in Iceberg",
@@ -1527,8 +2369,12 @@
       "company": "Tabular",
       "author": "Ryan Blue",
       "author_url": "https://www.linkedin.com/in/rdblue/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Using Debezium to Create a Data Lake with Apache Iceberg",
@@ -1537,8 +2383,14 @@
       "company": "Memiiso Community",
       "author": "Ismail Simsek",
       "author_url": "https://www.linkedin.com/in/ismailsimsek/",
-      "project_slugs": ["iceberg", "debezium"],
-      "tags": ["Apache Iceberg", "Debezium"]
+      "project_slugs": [
+        "iceberg",
+        "debezium"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Debezium"
+      ]
     },
     {
       "title": "How to Analyze CDC Data in Iceberg Data Lake Using Flink",
@@ -1547,8 +2399,14 @@
       "company": "Alibaba Cloud Community",
       "author": "Li Jinsong, Hu Zheng, Yang Weihai, Peidan Li",
       "author_url": "https://www.linkedin.com/in/%E5%8A%B2%E6%9D%BE-%E6%9D%8E-48b54b101/",
-      "project_slugs": ["iceberg", "flink"],
-      "tags": ["Apache Iceberg", "Apache Flink"]
+      "project_slugs": [
+        "iceberg",
+        "flink"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Flink"
+      ]
     },
     {
       "title": "Apache Iceberg: An Architectural Look Under the Covers",
@@ -1557,8 +2415,12 @@
       "company": "Dremio",
       "author": "Jason Hughes",
       "author_url": "https://www.linkedin.com/in/jasonhhughes/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Migrating to Apache Iceberg at Adobe Experience Platform",
@@ -1567,8 +2429,12 @@
       "company": "Adobe",
       "author": "Romin Parekh, Miao Wang, Shone Sadler",
       "author_url": "https://www.linkedin.com/in/rominparekh/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Flink + Iceberg: How to Construct a Whole-scenario Real-time Data Warehouse",
@@ -1577,8 +2443,14 @@
       "company": "Tencent",
       "author": "Shu (Simon Su) Su",
       "author_url": "https://www.linkedin.com/in/shu-su-62944994/",
-      "project_slugs": ["iceberg", "flink"],
-      "tags": ["Apache Iceberg", "Apache Flink"]
+      "project_slugs": [
+        "iceberg",
+        "flink"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Flink"
+      ]
     },
     {
       "title": "Trino on Ice III: Iceberg Concurrency Model, Snapshots, and the Iceberg Spec",
@@ -1587,8 +2459,14 @@
       "company": "Starburst",
       "author": "Brian Olsen",
       "author_url": "https://www.linkedin.com/in/bitsondatadev/",
-      "project_slugs": ["iceberg", "trino"],
-      "tags": ["Apache Iceberg", "Trino"]
+      "project_slugs": [
+        "iceberg",
+        "trino"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Trino"
+      ]
     },
     {
       "title": "Trino on Ice II: In-Place Table Evolution and Cloud Compatibility with Iceberg",
@@ -1597,8 +2475,14 @@
       "company": "Starburst",
       "author": "Brian Olsen",
       "author_url": "https://www.linkedin.com/in/bitsondatadev/",
-      "project_slugs": ["iceberg", "trino"],
-      "tags": ["Apache Iceberg", "Trino"]
+      "project_slugs": [
+        "iceberg",
+        "trino"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Trino"
+      ]
     },
     {
       "title": "Trino On Ice I: A Gentle Introduction To Iceberg",
@@ -1607,8 +2491,14 @@
       "company": "Starburst",
       "author": "Brian Olsen",
       "author_url": "https://www.linkedin.com/in/bitsondatadev/",
-      "project_slugs": ["iceberg", "trino"],
-      "tags": ["Apache Iceberg", "Trino"]
+      "project_slugs": [
+        "iceberg",
+        "trino"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Trino"
+      ]
     },
     {
       "title": "Apache Iceberg: A Different Table Design for Big Data",
@@ -1617,8 +2507,12 @@
       "company": "The New Stack",
       "author": "Susan Hall",
       "author_url": "https://thenewstack.io/author/susanhall/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "A Short Introduction to Apache Iceberg",
@@ -1627,8 +2521,12 @@
       "company": "Expedia",
       "author": "Christine Mathiesen",
       "author_url": "https://www.linkedin.com/in/christine-mathiesen-676a98159/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Taking Query Optimizations to the Next Level with Iceberg",
@@ -1637,8 +2535,12 @@
       "company": "Adobe",
       "author": "Gautam Kowshik, Xabriel J. Collazo Mojica",
       "author_url": "https://www.linkedin.com/in/gautamk/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "FastIngest: Low-latency Gobblin with Apache Iceberg and ORC format",
@@ -1647,18 +2549,28 @@
       "company": "LinkedIn",
       "author": "Zihan Li, Sudarshan Vasudevan, Lei Sun, Shirshanka Das",
       "author_url": "https://www.linkedin.com/in/zihan-li-0a8a15149/",
-      "project_slugs": ["iceberg", "orc"],
-      "tags": ["Apache Iceberg", "ORC"]
+      "project_slugs": [
+        "iceberg",
+        "orc"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "ORC"
+      ]
     },
-        {
+    {
       "title": "High Throughput Ingestion with Iceberg",
       "date": "2020-12-22",
       "url": "https://medium.com/adobetech/high-throughput-ingestion-with-iceberg-ccf7877a413f",
       "company": "Adobe",
       "author": "Andrei Ionescu, Shone Sadler, Anil Malkani",
       "author_url": "https://www.linkedin.com/in/andreiionescu",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Optimizing data warehouse storage",
@@ -1667,8 +2579,12 @@
       "company": "Netflix",
       "author": "Anupom Syam",
       "author_url": "https://www.linkedin.com/in/anupom/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Iceberg at Adobe",
@@ -1677,8 +2593,12 @@
       "company": "Adobe",
       "author": "Shone Sadler, Romin Parekh, Anil Malkani",
       "author_url": "https://www.linkedin.com/in/shonesadler/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
       "title": "Bulldozer: Batch Data Moving from Data Warehouse to Online Key-Value Stores",
@@ -1687,232 +2607,336 @@
       "company": "Netflix",
       "author": "Tianlong Chen, Ioannis Papapanagiotou",
       "author_url": "https://www.linkedin.com/in/tianlong-chen-39189b7a/",
-      "project_slugs": ["iceberg"],
-      "tags": ["Apache Iceberg"]
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg"
+      ]
     },
     {
-    "title": "The Origins of Apache Arrow & Its Fit in Today’s Data Landscape",
-    "date": "2022-07-07",
-    "url": "https://www.dremio.com/blog/the-origins-of-apache-arrow-its-fit-in-todays-data-landscape/",
-    "company": "Dremio",
-    "author": "Dipankar Mazumdar",
-    "author_url": "https://www.dremio.com/authors/dipankar-mazumdar/",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Apache Arrow’s Rapid Growth Over the Years",
-    "date": "2022-11-14",
-    "url": "https://www.dremio.com/blog/apache-arrows-rapid-growth-over-the-years/",
-    "company": "Dremio",
-    "author": "Dipankar Mazumdar",
-    "author_url": "https://www.dremio.com/authors/dipankar-mazumdar/",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "An Introduction to Apache Arrow Flight SQL",
-    "date": "2022-01-18",
-    "url": "https://www.dremio.com/blog/an-introduction-to-apache-arrow-flight-sql/",
-    "company": "Dremio",
-    "author": "Alex Merced",
-    "author_url": "https://www.dremio.com/authors/alex-merced/",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Connecting to Dremio Using Apache Arrow Flight in Python",
-    "date": "2024-01-18",
-    "url": "https://www.dremio.com/blog/connecting-to-dremio-using-apache-arrow-flight-in-python/",
-    "company": "Dremio",
-    "author": "Alex Merced",
-    "author_url": "https://www.dremio.com/authors/alex-merced/",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "How Dremio delivers fast queries on object storage: Apache Arrow, Reflections, and the Columnar Cloud Cache",
-    "date": "2024-02-01",
-    "url": "https://www.dremio.com/blog/how-dremio-delivers-fast-queries-on-object-storage-apache-arrow-reflections-and-the-columnar-cloud-cache/",
-    "company": "Dremio",
-    "author": "Alex Merced",
-    "author_url": "https://www.dremio.com/authors/alex-merced/",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Open Source and the Data Lakehouse: Apache Arrow, Apache Iceberg, Nessie and Dremio",
-    "date": "2024-02-01",
-    "url": "https://www.dremio.com/blog/open-source-and-the-data-lakehouse-apache-arrow-apache-iceberg-nessie-and-dremio/",
-    "company": "Dremio",
-    "author": "Alex Merced",
-    "author_url": "https://www.dremio.com/authors/alex-merced/",
-    "project_slugs": ["arrow", "iceberg", "nessie"],
-    "tags": ["Apache Arrow", "Apache Iceberg", "Project Nessie"]
-  },
-  {
-    "title": "Use Apache Arrow and Go for Your Data Workflows",
-    "date": "2023-03-27",
-    "url": "https://voltrondata.com/blog/use-apache-arrow-and-go-for-your-data-workflows",
-    "company": "Voltron Data",
-    "author": "Matt Topol",
-    "author_url": "",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Apache Arrow: Driving Columnar Analytics Performance and Connectivity",
-    "date": "2022-02-03",
-    "url": "https://voltrondata.com/blog/arrow-columnar-analytics",
-    "company": "Voltron Data",
-    "author": "Wes McKinney",
-    "author_url": "",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Arrow Database Connectivity",
-    "date": "2023-01-19",
-    "url": "https://voltrondata.com/blog/arrow-database-connectivity-apache-arrow-for-every-database-user",
-    "company": "Voltron Data",
-    "author": "David Li",
-    "author_url": "",
-    "project_slugs": ["arrow", "adbc"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Apache Arrow New Contributor’s Guide",
-    "date": "2022-04-07",
-    "url": "https://voltrondata.com/blog/apache-arrow-new-contributors-guide",
-    "company": "Voltron Data",
-    "author": "Alenka Frim",
-    "author_url": "",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Zero-Copy Sharing using Apache Arrow and Golang",
-    "date": "2023-07-20",
-    "url": "https://voltrondata.com/blog/zero-copy-sharing-using-apache-arrow-and-golang",
-    "company": "Voltron Data",
-    "author": "Matt Topol",
-    "author_url": "",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "How To: Understand Apache Arrow",
-    "date": "2023-06-04",
-    "url": "https://medium.com/@diehardankush/understanding-apache-arrow-8afc9e9cd7ed",
-    "company": "Medium",
-    "author": "Ankush Singh",
-    "author_url": "https://medium.com/@diehardankush",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Unlocking High-Speed Data Analytics with Apache Arrow: A Beginner’s Guide",
-    "date": "2024-02-14",
-    "url": "https://aravindkolli.medium.com/unlocking-high-speed-data-analytics-with-apache-arrow-a-beginners-guide-c5f1cda0927d",
-    "company": "Medium",
-    "author": "Aravind Kolli",
-    "author_url": "https://aravindkolli.medium.com/",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Microsoft Fabric: An introduction to Apache Arrow as the cornerstone of Python data engineering",
-    "date": "2025-07-30",
-    "url": "https://christianhenrikreich.medium.com/microsoft-fabric-an-introduction-to-apache-arrow-as-the-cornerstone-of-python-data-engineering-f35d009dfc69",
-    "company": "Medium",
-    "author": "Christian Henrik Reich",
-    "author_url": "https://christianhenrikreich.medium.com/",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Apache Arrow, making Spark even faster",
-    "date": "2024-03-29",
-    "url": "https://amanjaiswalofficial.medium.com/apache-arrow-making-spark-even-faster-3ae-8ca8e1a67dc7",
-    "company": "Medium",
-    "author": "Aman Jaiswal",
-    "author_url": "https://amanjaiswalofficial.medium.com/",
-    "project_slugs": ["arrow", "spark"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "What is Apache Arrow Flight, Flight SQL & ADBC",
-    "date": "2025-03-18",
-    "url": "https://dipankar-tnt.medium.com/what-is-apache-arrow-flight-flight-sql-adbc-a076511122ac",
-    "company": "Medium",
-    "author": "Dipankar Mazumdar",
-    "author_url": "https://dipankar-tnt.medium.com/",
-    "project_slugs": ["arrow", "flight", "adbc"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "The Hidden Power of Apache Arrow in Python ETL",
-    "date": "2025-08-07",
-    "url": "https://medium.com/@bhagyarana80/the-hidden-power-of-apache-arrow-in-python-etl-19ad052819f1",
-    "company": "Medium",
-    "author": "Bhagya Rana",
-    "author_url": "https://medium.com/@bhagyarana80",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Redefining Data Engineering with Go and Apache Arrow",
-    "date": "2025-02-04",
-    "url": "https://medium.com/@tfmv/redefining-data-engineering-with-go-and-apache-arrow-df9059ddf55c",
-    "company": "Medium",
-    "author": "Thomas F McGeehan V",
-    "author_url": "https://medium.com/@tfmv",
-    "project_slugs": ["arrow", "go"],
-    "tags": ["Apache Arrow"]
-  },
-  {
-    "title": "Aligning Velox and Apache Arrow: Towards composable data management",
-    "date": "2024-02-20",
-    "url": "https://engineering.fb.com/2024/02/20/developer-tools/velox-apache-arrow-15-composable-data-management/",
-    "company": "Meta",
-    "author": "Pedro Pedreira",
-    "author_url": "https://engineering.fb.com/author/pedro-pedreira/",
-    "project_slugs": ["arrow", "velox"],
-    "tags": ["Apache Arrow", "Velox"]
-  },
-  {
-    "title": "Expanding Arrow’s Reach with a JDBC Driver for Arrow Flight SQL",
-    "date": "2022-11-01",
-    "url": "https://arrow.apache.org/blog/2022/11/01/arrow-flight-sql-jdbc/",
-    "company": "Apache Arrow",
-    "author": "Apache Arrow PMC",
-    "author_url": "",
-    "project_slugs": ["arrow", "flight-sql"],
-    "tags": ["Apache Arrow"]
-  },
+      "title": "The Origins of Apache Arrow & Its Fit in Today\u2019s Data Landscape",
+      "date": "2022-07-07",
+      "url": "https://www.dremio.com/blog/the-origins-of-apache-arrow-its-fit-in-todays-data-landscape/",
+      "company": "Dremio",
+      "author": "Dipankar Mazumdar",
+      "author_url": "https://www.dremio.com/authors/dipankar-mazumdar/",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
     {
-    "title": "Hands-on Introduction to Dremio Cloud Agentic Lakehouse (Self-Guided Workshop)",
-    "date": "2022-11-13",
-    "url": "https://www.dremio.com/blog/hands-on-introduction-to-dremio-cloud-next-gen-self-guided-workshop/",
-    "company": "Dremio",
-    "author": "Alex Merced",
-    "author_url": "https://www.alexmerced.com/data",
-    "project_slugs": ["iceberg","polaris","arrow"],
-    "tags": ["Apache Iceberg", "Apache Polaris", "Apache Arrow"]
-  },
-  {
-    "title": "How the Apache Arrow Format Accelerates Query Result Transfer",
-    "date": "2025-01-10",
-    "url": "https://arrow.apache.org/blog/2025/01/10/arrow-result-transfer/",
-    "company": "Apache Arrow",
-    "author": "Ian Cook et al.",
-    "author_url": "",
-    "project_slugs": ["arrow"],
-    "tags": ["Apache Arrow"]
-  }
+      "title": "Apache Arrow\u2019s Rapid Growth Over the Years",
+      "date": "2022-11-14",
+      "url": "https://www.dremio.com/blog/apache-arrows-rapid-growth-over-the-years/",
+      "company": "Dremio",
+      "author": "Dipankar Mazumdar",
+      "author_url": "https://www.dremio.com/authors/dipankar-mazumdar/",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "An Introduction to Apache Arrow Flight SQL",
+      "date": "2022-01-18",
+      "url": "https://www.dremio.com/blog/an-introduction-to-apache-arrow-flight-sql/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.dremio.com/authors/alex-merced/",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Connecting to Dremio Using Apache Arrow Flight in Python",
+      "date": "2024-01-18",
+      "url": "https://www.dremio.com/blog/connecting-to-dremio-using-apache-arrow-flight-in-python/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.dremio.com/authors/alex-merced/",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "How Dremio delivers fast queries on object storage: Apache Arrow, Reflections, and the Columnar Cloud Cache",
+      "date": "2024-02-01",
+      "url": "https://www.dremio.com/blog/how-dremio-delivers-fast-queries-on-object-storage-apache-arrow-reflections-and-the-columnar-cloud-cache/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.dremio.com/authors/alex-merced/",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Open Source and the Data Lakehouse: Apache Arrow, Apache Iceberg, Nessie and Dremio",
+      "date": "2024-02-01",
+      "url": "https://www.dremio.com/blog/open-source-and-the-data-lakehouse-apache-arrow-apache-iceberg-nessie-and-dremio/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.dremio.com/authors/alex-merced/",
+      "project_slugs": [
+        "arrow",
+        "iceberg",
+        "nessie"
+      ],
+      "tags": [
+        "Apache Arrow",
+        "Apache Iceberg",
+        "Project Nessie"
+      ]
+    },
+    {
+      "title": "Use Apache Arrow and Go for Your Data Workflows",
+      "date": "2023-03-27",
+      "url": "https://voltrondata.com/blog/use-apache-arrow-and-go-for-your-data-workflows",
+      "company": "Voltron Data",
+      "author": "Matt Topol",
+      "author_url": "",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Apache Arrow: Driving Columnar Analytics Performance and Connectivity",
+      "date": "2022-02-03",
+      "url": "https://voltrondata.com/blog/arrow-columnar-analytics",
+      "company": "Voltron Data",
+      "author": "Wes McKinney",
+      "author_url": "",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Arrow Database Connectivity",
+      "date": "2023-01-19",
+      "url": "https://voltrondata.com/blog/arrow-database-connectivity-apache-arrow-for-every-database-user",
+      "company": "Voltron Data",
+      "author": "David Li",
+      "author_url": "",
+      "project_slugs": [
+        "arrow",
+        "adbc"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Apache Arrow New Contributor\u2019s Guide",
+      "date": "2022-04-07",
+      "url": "https://voltrondata.com/blog/apache-arrow-new-contributors-guide",
+      "company": "Voltron Data",
+      "author": "Alenka Frim",
+      "author_url": "",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Zero-Copy Sharing using Apache Arrow and Golang",
+      "date": "2023-07-20",
+      "url": "https://voltrondata.com/blog/zero-copy-sharing-using-apache-arrow-and-golang",
+      "company": "Voltron Data",
+      "author": "Matt Topol",
+      "author_url": "",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "How To: Understand Apache Arrow",
+      "date": "2023-06-04",
+      "url": "https://medium.com/@diehardankush/understanding-apache-arrow-8afc9e9cd7ed",
+      "company": "Medium",
+      "author": "Ankush Singh",
+      "author_url": "https://medium.com/@diehardankush",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Unlocking High-Speed Data Analytics with Apache Arrow: A Beginner\u2019s Guide",
+      "date": "2024-02-14",
+      "url": "https://aravindkolli.medium.com/unlocking-high-speed-data-analytics-with-apache-arrow-a-beginners-guide-c5f1cda0927d",
+      "company": "Medium",
+      "author": "Aravind Kolli",
+      "author_url": "https://aravindkolli.medium.com/",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Microsoft Fabric: An introduction to Apache Arrow as the cornerstone of Python data engineering",
+      "date": "2025-07-30",
+      "url": "https://christianhenrikreich.medium.com/microsoft-fabric-an-introduction-to-apache-arrow-as-the-cornerstone-of-python-data-engineering-f35d009dfc69",
+      "company": "Medium",
+      "author": "Christian Henrik Reich",
+      "author_url": "https://christianhenrikreich.medium.com/",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Apache Arrow, making Spark even faster",
+      "date": "2024-03-29",
+      "url": "https://amanjaiswalofficial.medium.com/apache-arrow-making-spark-even-faster-3ae-8ca8e1a67dc7",
+      "company": "Medium",
+      "author": "Aman Jaiswal",
+      "author_url": "https://amanjaiswalofficial.medium.com/",
+      "project_slugs": [
+        "arrow",
+        "spark"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "What is Apache Arrow Flight, Flight SQL & ADBC",
+      "date": "2025-03-18",
+      "url": "https://dipankar-tnt.medium.com/what-is-apache-arrow-flight-flight-sql-adbc-a076511122ac",
+      "company": "Medium",
+      "author": "Dipankar Mazumdar",
+      "author_url": "https://dipankar-tnt.medium.com/",
+      "project_slugs": [
+        "arrow",
+        "flight",
+        "adbc"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "The Hidden Power of Apache Arrow in Python ETL",
+      "date": "2025-08-07",
+      "url": "https://medium.com/@bhagyarana80/the-hidden-power-of-apache-arrow-in-python-etl-19ad052819f1",
+      "company": "Medium",
+      "author": "Bhagya Rana",
+      "author_url": "https://medium.com/@bhagyarana80",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Redefining Data Engineering with Go and Apache Arrow",
+      "date": "2025-02-04",
+      "url": "https://medium.com/@tfmv/redefining-data-engineering-with-go-and-apache-arrow-df9059ddf55c",
+      "company": "Medium",
+      "author": "Thomas F McGeehan V",
+      "author_url": "https://medium.com/@tfmv",
+      "project_slugs": [
+        "arrow",
+        "go"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Aligning Velox and Apache Arrow: Towards composable data management",
+      "date": "2024-02-20",
+      "url": "https://engineering.fb.com/2024/02/20/developer-tools/velox-apache-arrow-15-composable-data-management/",
+      "company": "Meta",
+      "author": "Pedro Pedreira",
+      "author_url": "https://engineering.fb.com/author/pedro-pedreira/",
+      "project_slugs": [
+        "arrow",
+        "velox"
+      ],
+      "tags": [
+        "Apache Arrow",
+        "Velox"
+      ]
+    },
+    {
+      "title": "Expanding Arrow\u2019s Reach with a JDBC Driver for Arrow Flight SQL",
+      "date": "2022-11-01",
+      "url": "https://arrow.apache.org/blog/2022/11/01/arrow-flight-sql-jdbc/",
+      "company": "Apache Arrow",
+      "author": "Apache Arrow PMC",
+      "author_url": "",
+      "project_slugs": [
+        "arrow",
+        "flight-sql"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "Hands-on Introduction to Dremio Cloud Agentic Lakehouse (Self-Guided Workshop)",
+      "date": "2022-11-13",
+      "url": "https://www.dremio.com/blog/hands-on-introduction-to-dremio-cloud-next-gen-self-guided-workshop/",
+      "company": "Dremio",
+      "author": "Alex Merced",
+      "author_url": "https://www.alexmerced.com/data",
+      "project_slugs": [
+        "iceberg",
+        "polaris",
+        "arrow"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "Apache Polaris",
+        "Apache Arrow"
+      ]
+    },
+    {
+      "title": "How the Apache Arrow Format Accelerates Query Result Transfer",
+      "date": "2025-01-10",
+      "url": "https://arrow.apache.org/blog/2025/01/10/arrow-result-transfer/",
+      "company": "Apache Arrow",
+      "author": "Ian Cook et al.",
+      "author_url": "",
+      "project_slugs": [
+        "arrow"
+      ],
+      "tags": [
+        "Apache Arrow"
+      ]
+    }
   ]
 }
-
-
-
-

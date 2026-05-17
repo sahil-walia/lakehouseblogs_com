@@ -1,0 +1,9 @@
+LakehouseBlogs.com is an open-source aggregator of blogs, tutorials, and updates about Apache Iceberg, Delta Lake, Apache Hudi, Apache Paimon, Apache Polaris, Apache Gravitino, Project Nessie, and other open source data lakehouse technologies.
+
+The site is maintained by Alex Merced and contains curated conference talks, podcast episodes, and blog posts.
+Contributions are welcome via pull requests on GitHub (https://github.com/AlexMercedCoder/lakehouseblogs_com).
+
+Main Sections:
+- Home (Blogs): https://lakehouseblogs.com/
+- Talks: https://lakehouseblogs.com/talk.html
+- Podcasts: https://lakehouseblogs.com/podcasts.html

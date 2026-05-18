@@ -2947,6 +2947,21 @@
       "tags": [
         "Apache Arrow"
       ]
+    },
+    {
+      "title": "Your Data Just Got Swifter — Meet SwiftLake",
+      "date": "2025-08-12",
+      "url": "https://medium.com/arcesium-engineering-blog/your-data-just-got-swifter-meet-swiftlake-7568cc85ee57",
+      "company": "Arcesium",
+      "author": "Ramakrishna Mothukuri",
+      "author_url": "https://www.linkedin.com/in/ramakrishna-mothukuri/",
+      "project_slugs": [
+        "iceberg"
+      ],
+      "tags": [
+        "Apache Iceberg",
+        "DuckDB"
+      ]
     }
   ]
 }

@@ -2970,9 +2970,7 @@
       "company": "Snowflake",
       "author": "Sahil Walia",
       "author_url": "https://www.linkedin.com/in/sahilwaliasyracuse/",
-      "project_slugs": [
-        "iceberg"
-      ],
+      "project_slugs": ["iceberg"],
       "tags": ["Apache Iceberg"]
     }
   ]
